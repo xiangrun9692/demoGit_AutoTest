@@ -4,3 +4,5 @@
 为了验证推送，在原有的readme文件上加点内容。
 
 为了讲解合并分支知识点，在mergedemo分支上，在README.md文件中加入了这行文字。
+
+mergerdemo分支中的内容。
